@@ -57,7 +57,7 @@ This task helped build a strong foundation in **regression modeling and evaluati
 ## 🔗 LinkedIn Post
 
 You can view my task update here:  
-👉 *[Add your LinkedIn post URL here]*
+👉 *[https://www.linkedin.com/in/saran-kumar-s-b45b75317/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1NOw3PFmR1qllZ9WndFZFA%3D%3D]*
 
 ---
 
