@@ -41,12 +41,6 @@ Used the **House Prices - Advanced Regression Techniques** dataset from Kaggle:
 
 ---
 
-## 📈 Output Sample
-
-![Actual vs Predicted](your-screenshot.png) <!-- Replace with your actual image filename or link -->
-
----
-
 ## ✅ Result
 
 Achieved a reasonable R² score showing how well the model fits the data.  
@@ -65,5 +59,5 @@ You can view my task update here:
 
 **Saran Kumar S**  
 Intern – Machine Learning, Prodigy InfoTech  
-[GitHub Profile](https://github.com/yourusername) <!-- Replace with your actual GitHub URL -->
+[GitHub Profile](https://github.com/Thunder371-hub) 
 
